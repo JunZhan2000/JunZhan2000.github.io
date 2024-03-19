@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 5,
+            "activePatchIndex": 7,
             "patches": [
                 {
                     "date": 1710762905413,
@@ -28,6 +28,14 @@
                 {
                     "date": 1710763221319,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -49,10 +49,10 @@\n - *2022.09 - (now)*, Master, Fudan University, Shanghai.\n - *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology, Wuhan.\n \n \n-# 💬 Invited Talks\n+<!-- # 💬 Invited Talks\n - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \n-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \\| [\\[video\\]](https://github.com/)\n+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \\| [\\[video\\]](https://github.com/) -->\n \n\\ No newline at end of file\n-# 💻 Internships\n-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.\n+<!-- # 💻 Internships\n+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1710824568990,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,16 +21,19 @@\n \n My current research focuses on unified multimodal LLMs and representation models. Feel free to contact me via email at jzhan22@m.fudan.edu.cn.\n \n # 🔥 News\n-- *2024.02*: &nbsp;🎉🎉 We release the paper, model and data of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/). Welcome to STAR and FORK!\n+- *2024.02*: &nbsp;🎉🎉 We release the paper and data of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/). Welcome to STAR and FORK!\n . \n \n # 📝 Publications \n \n-<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">CVPR 2016</div><img src='images/500x300.png' alt=\"sym\" width=\"100%\"></div></div>\n+<div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">CVPR 2016</div><img src='images/anygpt-model1.jpg' alt=\"sym\" width=\"100%\"></div></div>\n <div class='paper-box-text' markdown=\"1\">\n \n+<div class='paper-box'><div class='paper-box-image'><div><img src='images/anygpt-model1.jpg' alt=\"sym\" width=\"100%\"></div></div>\n+<div class='paper-box-text' markdown=\"1\">\n+\n [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\n \n **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun\n \n"
+                },
+                {
+                    "date": 1710824575968,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -29,8 +29,10 @@\n \n <div class='paper-box'><div class='paper-box-image'><div><div class=\"badge\">CVPR 2016</div><img src='images/anygpt-model1.jpg' alt=\"sym\" width=\"100%\"></div></div>\n <div class='paper-box-text' markdown=\"1\">\n \n+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\n+\n <div class='paper-box'><div class='paper-box-image'><div><img src='images/anygpt-model1.jpg' alt=\"sym\" width=\"100%\"></div></div>\n <div class='paper-box-text' markdown=\"1\">\n \n [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\n"
                 }
             ],
             "date": 1710762905413,
