@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_includes/head/custom.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1710830831123,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1710830831123,
+            "name": "Commit-0",
+            "content": "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"images/apple-touch-icon.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"images/avator.jpg\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"images/avator.jpg\">\n<link rel=\"manifest\" href=\"images/site.webmanifest\">\n\n<meta name=\"msapplication-TileColor\" content=\"#000000\">\n<meta name=\"msapplication-TileImage\" content=\"images/mstile-144x144.png?v=M44lzPylqQ\">\n<meta name=\"msapplication-config\" content=\"images/browserconfig.xml?v=M44lzPylqQ\">\n<meta name=\"theme-color\" content=\"#ffffff\">\n<link rel=\"stylesheet\" href=\"assets/css/academicons.css\"/>\n\n<script type=\"text/x-mathjax-config\"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: \"all\" } } }); </script>\n<script type=\"text/x-mathjax-config\">\n  MathJax.Hub.Config({\n    tex2jax: {\n      inlineMath: [ ['$','$'], [\"\\\\(\",\"\\\\)\"] ],\n      processEscapes: true\n    }\n  });\n</script>\n<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>\n\n<!-- end custom head snippets -->\n"
+        }
+    ]
+}
