@@ -36,7 +36,7 @@ My current research focuses on unified multimodal models. Feel free to contact m
 <div class='paper-box-text' markdown="1">
 
 [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf) \\
-**Jun Zhan**, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yugang Jiang1, Xipeng Qiu
+**Jun Zhan\***, Junqi Dai\*, Jiasheng\*, Yunhua Zhou\*, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yugang Jiang1, Xipeng Qiu
 
 [**Project**](https://junzhan2000.github.io/AnyGPT.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - **Role**: Project Lead
@@ -81,7 +81,7 @@ Dong Zhang, Shimin Li, Xin Zhang, **Jun Zhan**, Pengyu Wang, Yaqian Zhou, Xipeng
 
 [SpeechGPT2:
 End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.github.io/)
-- Dong Zhang, Qian Tu*, Ruifan Deng*, **Jun Zhan\***, Zixin Wang*, Xingjian Zhao, Ke Chen, Xin Zhang, Pengyu Wang, Zhaowei Li, Shimin Li, Yaqian Zhou, Xipeng Qiu.
+- Dong Zhang, Qian Tu\*, Ruifan Deng\*, **Jun Zhan\***, Zixin Wang\*, Xingjian Zhao, Ke Chen, Xin Zhang, Pengyu Wang, Zhaowei Li, Shimin Li, Yaqian Zhou, Xipeng Qiu.
 - 🌟 SpeechGPT2 is a emotional intelligent end-to-end spoken dialogue LLM.
 </div>
 </div>
