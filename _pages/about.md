@@ -76,6 +76,9 @@ Dong Zhang, Shimin Li, Xin Zhang, **Jun Zhan**, Pengyu Wang, Yaqian Zhou, Xipeng
 </div>
 </div>
 
+🎖 Honors and Awards
+- *2024.08*: 😄 The Best Poster at the 3rd HIT-SCIR \& THUNLP \& FudanNLP Academic Symposium.
+- *2024.12*: ⚽️ The runner-up of the 2024 Fudan University Graduate Football Tournament.
 
 # 📖 Educations
 - *2024.09 - (now)*, Phd, Fudan University, Shanghai.
