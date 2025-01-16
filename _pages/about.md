@@ -76,6 +76,16 @@ Dong Zhang, Shimin Li, Xin Zhang, **Jun Zhan**, Pengyu Wang, Yaqian Zhou, Xipeng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/speechgpt2-model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpeechGPT2:
+End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.github.io/)
+- Dong Zhang, Qian Tu*, Ruifan Deng*, **Jun Zhan\***, Zixin Wang*, Xingjian Zhao, Ke Chen, Xin Zhang, Pengyu Wang, Zhaowei Li, Shimin Li, Yaqian Zhou, Xipeng Qiu.
+- 🌟 SpeechGPT2 is a emotional intelligent end-to-end spoken dialogue LLM.
+</div>
+</div>
+
 🎖 Honors and Awards
 - *2024.08*: 😄 The Best Poster at the 3rd HIT-SCIR \& THUNLP \& FudanNLP Academic Symposium.
 - *2024.12*: ⚽️ The runner-up of the 2024 Fudan University Graduate Football Tournament.
