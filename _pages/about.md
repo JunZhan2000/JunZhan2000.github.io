@@ -17,13 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student at the Fudan University, NLP Lab, supervised by Prof. [Xipeng Qiu](https://xpqiu.github.io/en.html). I graduated from Huazhong University of Science and Technology with a bachelor's degree in software engineering.
+I am currently a third-year PhD student at the Fudan University, NLP Lab, supervised by Prof. [Xipeng Qiu](https://xpqiu.github.io/en.html). I graduated from Huazhong University of Science and Technology with a bachelor's degree in software engineering.
 
-My current research focuses on unified multimodal LLMs and representation models. Feel free to contact me via email at [jzhan22@m.fudan.edu.cn](jzhan22@m.fudan.edu.cn).
+My current research focuses on unified multimodal models. Feel free to contact me via email at [jzhan24@m.fudan.edu.cn](jzhan24@m.fudan.edu.cn).
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 We release the data of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/). Welcome to STAR and FORK!
-- *2024.02*: &nbsp;🤖🤖 We release the paper of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/).
+- *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab.
+- *2024.07*: &nbsp;🤖 We released SpeechGPT2, a emotional intelligent end-to-end spoken dialogue LLM.
+- *2024.05*: &nbsp;🎉 One first-author paper accepted to ACL 2024!
+- *2024.03*: &nbsp;🤖 We release the model, data, and code of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/). Welcome to STAR and FORK!
+- *2023.05*: &nbsp;🤖 We released SpeechGPT, a conversational speech large language model.
+- *2022.09*: &nbsp;🎓 I joined FudanNLPLab as a master student.
+
 
 # 📝 Publications 
 
