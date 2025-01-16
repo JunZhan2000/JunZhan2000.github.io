@@ -23,10 +23,10 @@ My current research focuses on unified multimodal models. Feel free to contact m
 
 # 🔥 News
 - *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab.
-- *2024.07*: &nbsp;🤖 We released SpeechGPT2, a emotional intelligent end-to-end spoken dialogue LLM.
+- *2024.07*: &nbsp;🤖 We released [SpeechGPT2](https://0nutation.github.io/SpeechGPT2.github.io/), a emotional intelligent end-to-end spoken dialogue LLM.
 - *2024.05*: &nbsp;🎉 One first-author paper accepted to ACL 2024!
 - *2024.03*: &nbsp;🤖 We release the model, data, and code of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/). Welcome to STAR and FORK!
-- *2023.05*: &nbsp;🤖 We released SpeechGPT, a conversational speech large language model.
+- *2023.05*: &nbsp;🤖 We released [SpeechGPT](https://0nutation.github.io/SpeechGPT.github.io/), a conversational speech large language model.
 - *2022.09*: &nbsp;🎓 I joined FudanNLPLab as a master student.
 
 
