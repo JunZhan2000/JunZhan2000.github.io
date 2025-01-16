@@ -91,6 +91,6 @@ End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.git
 - *2024.12*: ⚽️ The runner-up of the 2024 Fudan University Graduate Football Tournament.
 
 # 📖 Educations
-- *2024.09 - (now)*, Phd, Fudan University, Shanghai.
+- *2024.09 - (now)*, Phd student, Fudan University, Shanghai.
 - *2022.09 - 2024.06*, Master, Fudan University, Shanghai.
 - *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology, Wuhan.
