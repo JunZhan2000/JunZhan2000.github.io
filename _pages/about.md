@@ -86,7 +86,7 @@ End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.git
 </div>
 </div>
 
-🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2024.08*: 😄 The Best Poster at the 3rd HIT-SCIR \& THUNLP \& FudanNLP Academic Symposium.
 - *2024.12*: ⚽️ The runner-up of the 2024 Fudan University Graduate Football Tournament.
 
