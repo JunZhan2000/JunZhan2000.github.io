@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year PhD student at the Fudan University, NLP Lab, supervised by Prof. [Xipeng Qiu](https://xpqiu.github.io/en.html). I graduated from Huazhong University of Science and Technology with a bachelor's degree in software engineering.
+I am currently a forth-year PhD student at the Fudan University, NLP Lab, supervised by Prof. [Xipeng Qiu](https://xpqiu.github.io/en.html). I graduated from Huazhong University of Science and Technology with a bachelor's degree in software engineering.
 
 My current research focuses on unified multimodal models. Feel free to contact me via email at [jzhan24@m.fudan.edu.cn](jzhan24@m.fudan.edu.cn).
 
 # 🔥 News
-- *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab.
+- *2025.09*: &nbsp;🤖 We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models — with the paper, data, and code all fully open-sourced!
+- *2025.06*: &nbsp;🗣️ We release [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD), a bilingual spoken dialogue synthesis model.
+- *2025.02*: &nbsp;🤖 We release [SpeechGPT2.0-preview](https://github.com/OpenMOSS/SpeechGPT-2.0-preview), a human-like real-time interaction system.
+- *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab!
 - *2024.07*: &nbsp;🤖 We released [SpeechGPT2](https://0nutation.github.io/SpeechGPT2.github.io/), a emotional intelligent end-to-end spoken dialogue LLM.
 - *2024.05*: &nbsp;🎉 One first-author paper accepted to ACL 2024!
 - *2024.03*: &nbsp;🤖 We release the model, data, and code of [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/). Welcome to STAR and FORK!
@@ -35,8 +38,16 @@ My current research focuses on unified multimodal models. Feel free to contact m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/anygpt-model1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions](https://arxiv.org/abs/2509.09716) \\
+**Jun Zhan\***, Mingyang Han\*, Yuxuan Xie\*, Chen Wang, Dong Zhang, Kexin Huang, Haoxiang Shi, DongXiao Wang, Tengtao Song, Qinyuan Cheng, Shimin Li, Jun Song, Xipeng Qiu, Bo Zheng
+[**Project**](https://junzhan2000.github.io/VStyle.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- **Role**: Project Lead
+- VStyle is a benchmark for voice style adaptation in speech language models, with automated evaluation via LALM.
+</div>
+</div>
+
 [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf) \\
-**Jun Zhan\***, Junqi Dai\*, Jiasheng\*, Yunhua Zhou\*, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yugang Jiang1, Xipeng Qiu
+**Jun Zhan\***, Junqi Dai\*, Jiasheng\*, Yunhua Zhou\*, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yu-Gang Jiang1, Xipeng Qiu
 
 [**Project**](https://junzhan2000.github.io/AnyGPT.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - **Role**: Project Lead
