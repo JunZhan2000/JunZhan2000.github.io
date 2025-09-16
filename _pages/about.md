@@ -22,7 +22,7 @@ I am currently a forth-year PhD student at the Fudan University, NLP Lab, superv
 My current research focuses on unified multimodal models. Feel free to contact me via email at [jzhan24@m.fudan.edu.cn](jzhan24@m.fudan.edu.cn).
 
 # 🔥 News
-- *2025.09*: &nbsp;🤖 We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models — with the paper, data, and code all fully open-sourced!
+- *2025.09*: &nbsp;🎙️ We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models — with the paper, data, and code all fully open-sourced!
 - *2025.06*: &nbsp;🗣️ We release [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD), a bilingual spoken dialogue synthesis model.
 - *2025.02*: &nbsp;🤖 We release [SpeechGPT2.0-preview](https://github.com/OpenMOSS/SpeechGPT-2.0-preview), a human-like real-time interaction system.
 - *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab!
