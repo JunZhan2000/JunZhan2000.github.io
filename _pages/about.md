@@ -21,14 +21,14 @@ I am currently a forth-year PhD student at the Fudan University, NLP Lab, superv
 
 My current research focuses on unified multimodal models. Feel free to contact me via email at [jzhan24@m.fudan.edu.cn](jzhan24@m.fudan.edu.cn).
 
-I expect to graduate in June 2026 and am currently seeking job opportunities based in the United States, Europe, and Asia.
+I expect to graduate in June 2026 and am currently seeking job opportunities based in the United States, Europe, and China.
 
 # 🔥 News
 - *2026.07*: &nbsp;🎬 We release [OmniVAE](http://openmoss.ai/OmniVAE.github.io), an audio-video VAE with cross-modal alignment for joint generation.
-- *2026.06*: &nbsp;🎓 I joined Meta FAIR's Seamless Communication team as a research intern, mentored by [Tu Anh Nguyen](https://scholar.google.com/citations?user=TzZXAm4AAAAJ&hl=vi) and [Hongyu Gong](https://scholar.google.com/citations?user=Jam1IpgAAAAJ).
+- *2026.06*: &nbsp;💼 I joined Meta FAIR as a research intern.
 - *2025.09*: &nbsp;🎙️ We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models — with the paper, data, and code all fully open-sourced!
 - *2025.06*: &nbsp;🗣️ We release [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD), a bilingual spoken dialogue synthesis model.
-- *2025.05*: &nbsp;🎓 I joined Alibaba's Future Life Lab as a research intern.
+- *2025.05*: &nbsp;💼 I joined Alibaba's Future Life Lab as a research intern.
 - *2025.02*: &nbsp;🤖 We release [SpeechGPT2.0-preview](https://github.com/OpenMOSS/SpeechGPT-2.0-preview), a human-like real-time interaction system.
 - *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab!
 - *2024.07*: &nbsp;🤖 We released [SpeechGPT2](https://0nutation.github.io/SpeechGPT2.github.io/), a emotional intelligent end-to-end spoken dialogue LLM.
@@ -44,7 +44,7 @@ I expect to graduate in June 2026 and am currently seeking job opportunities bas
 <div class='paper-box-text' markdown="1">
 
 [VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions](https://arxiv.org/abs/2509.09716) \\
-**Jun Zhan\***, Mingyang Han\*, Yuxuan Xie\*, Chen Wang, Dong Zhang, Kexin Huang, Haoxiang Shi, DongXiao Wang, Tengtao Song, Qinyuan Cheng, Shimin Li, Jun Song, Xipeng Qiu, Bo Zheng
+**Jun Zhan\***, Mingyang Han\*, Yuxuan Xie\*, Chen Wang, Dong Zhang, Kexin Huang, Haoxiang Shi, DongXiao Wang, Tengtao Song, Qinyuan Cheng, Shimin Li, Jun Song, Xipeng Qiu, Bo Zheng \\
 [**Project**](https://junzhan2000.github.io/VStyle.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - **Role**: Project Lead
 - VStyle is a benchmark for voice style adaptation in speech language models, with automated evaluation via LALM.
