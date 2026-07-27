@@ -23,9 +23,8 @@ My current research focuses on unified multimodal models. Feel free to contact m
 
 <div class="job-market">
   <p><span class="job-market__label"><span aria-hidden="true">💼</span> <strong>On the job market:</strong></span> I expect to graduate in June 2026 and am seeking research opportunities in the United States, China, and Europe. Please feel free to contact me at <a href="mailto:jzhan24@m.fudan.edu.cn">jzhan24@m.fudan.edu.cn</a>.</p>
+  <p><a href="/files/junzhan-resume-en.pdf">CV (English)</a> · <a href="/files/junzhan-resume-zh.pdf">简历（中文）</a></p>
 </div>
-
-[CV (English)](/files/junzhan-resume-en.pdf) · [简历（中文）](/files/junzhan-resume-zh.pdf)
 
 # 🔥 News
 - *2026.07*: &nbsp;🎬 We release [OmniVAE](http://openmoss.ai/OmniVAE.github.io), an audio-video VAE with cross-modal alignment for joint generation!
@@ -113,10 +112,10 @@ Dong Zhang, Shimin Li, Xin Zhang, **Jun Zhan**, Pengyu Wang, Yaqian Zhou, Xipeng
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/speechgpt2-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpeechGPT2:
-End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.github.io/)
+[SpeechGPT 2.0-preview: End-to-End Human-Like Spoken Chatbot](https://github.com/OpenMOSS/SpeechGPT-2.0-preview)
 - Dong Zhang, Qian Tu\*, Ruifan Deng\*, **Jun Zhan\***, Zixin Wang\*, Xingjian Zhao, Ke Chen, Xin Zhang, Pengyu Wang, Zhaowei Li, Shimin Li, Yaqian Zhou, Xipeng Qiu.
-- 🌟 SpeechGPT2 is a emotional intelligent end-to-end spoken dialogue LLM.
+- 🌟 An end-to-end spoken dialogue LLM that directly models audio and supports expressive conversations across emotions, speaking styles, and voices, together with natural real-time interaction.
+- [Project](https://0nutation.github.io/SpeechGPT2.github.io/) · [Code](https://github.com/OpenMOSS/SpeechGPT-2.0-preview)
 </div>
 </div>
 
