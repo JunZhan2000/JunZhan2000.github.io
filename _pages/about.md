@@ -25,10 +25,10 @@ I expect to graduate in June 2026 and am currently seeking job opportunities bas
 
 # 🔥 News
 - *2026.07*: &nbsp;🎬 We release [OmniVAE](http://openmoss.ai/OmniVAE.github.io), an audio-video VAE with cross-modal alignment for joint generation.
-- *2026.06*: &nbsp;💼 I joined Meta FAIR as a research intern.
-- *2025.09*: &nbsp;🎙️ We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models — with the paper, data, and code all fully open-sourced!
+- *2026.06*: &nbsp;💼 I joined Meta FAIR as a research intern!
+- *2025.09*: &nbsp;🎙️ We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models.
 - *2025.06*: &nbsp;🗣️ We release [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD), a bilingual spoken dialogue synthesis model.
-- *2025.05*: &nbsp;💼 I joined Alibaba's Future Life Lab as a research intern.
+- *2025.05*: &nbsp;💼 I joined Alibaba's Future Life Lab as a research intern!
 - *2025.02*: &nbsp;🤖 We release [SpeechGPT2.0-preview](https://github.com/OpenMOSS/SpeechGPT-2.0-preview), a human-like real-time interaction system.
 - *2024.09*: &nbsp;🎓 I became a phd student at FudanNLPLab!
 - *2024.07*: &nbsp;🤖 We released [SpeechGPT2](https://0nutation.github.io/SpeechGPT2.github.io/), a emotional intelligent end-to-end spoken dialogue LLM.
@@ -115,5 +115,5 @@ End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.git
 - *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology, Wuhan.
 
 # 💻 Internships
-- *2026.06 - Present*, Research Intern, Meta FAIR.
-- *2025.05 - 2025.08*, Research Intern, Alibaba Future Life Lab.
+- *2026.06 - Present*, Research Intern, Meta FAIR!
+- *2025.05 - 2025.08*, Research Intern, Alibaba Future Life Lab!
