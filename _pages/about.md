@@ -40,6 +40,17 @@ I expect to graduate in June 2026 and am currently seeking job opportunities bas
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/omnivae-architecture.png' alt="OmniVAE architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation](http://openmoss.ai/OmniVAE.github.io) \\
+**Jun Zhan\***, Chen Yang\*, Yitian Gong\*, Donghua Yu, Kuangwei Chen, Wenbo Zhang, Kexin Huang, Qi Luo, Zhe Xu, Ying Zhu, Jin Wang, Tengyue Zhang, Qi Chen, Cheng Chang, Songlin Wang, Junqi Dai, Jiasheng Ye, Xiaogui Yang, Tianyi Liang, Xiangyu Peng, Zhaoye Fei, Shimin Li, Qinyuan Cheng, Xie Chen, Xinchi Chen, Xipeng Qiu \\
+[**Project**](http://openmoss.ai/OmniVAE.github.io)
+- **Role**: Project Lead
+- OmniVAE is a jointly trained audio-video VAE that learns fine-grained cross-modal alignment, improving generation quality and audio-video synchronization without additional inference cost.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/vstyle.png' alt="VStyle voice style categories and instructions" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
