@@ -27,7 +27,7 @@ My current research focuses on unified multimodal models. Feel free to contact m
 </div>
 
 # 🔥 News
-- *2026.07*: &nbsp;🎬 We release [OmniVAE](http://openmoss.ai/OmniVAE.github.io), an audio-video VAE with cross-modal alignment for joint generation.
+- *2026.07*: &nbsp;🎬 We release [OmniVAE](http://openmoss.ai/OmniVAE.github.io), an audio-video VAE with cross-modal alignment for joint generation!
 - *2026.06*: &nbsp;💼 I joined Meta FAIR as a research intern!
 - *2025.09*: &nbsp;🎙️ We release [VStyle](https://github.com/OpenMOSS/MOSS-TTSD), a benchmark for voice style adaptation in speech language models.
 - *2025.06*: &nbsp;🗣️ We release [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD), a bilingual spoken dialogue synthesis model.
