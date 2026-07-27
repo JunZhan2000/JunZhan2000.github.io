@@ -115,5 +115,5 @@ End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.git
 - *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology, Wuhan.
 
 # 💻 Internships
-- *2026.06 - Present*, Research Intern, Meta FAIR!
-- *2025.05 - 2025.08*, Research Intern, Alibaba Future Life Lab!
+- *2026.06 - Present*, Research Intern, Meta FAIR.
+- *2025.05 - 2025.08*, Research Intern, Alibaba Future Life Lab.
