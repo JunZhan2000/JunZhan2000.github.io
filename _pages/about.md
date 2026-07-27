@@ -130,4 +130,5 @@ Dong Zhang, Shimin Li, Xin Zhang, **Jun Zhan**, Pengyu Wang, Yaqian Zhou, Xipeng
 
 # 💻 Internships
 - *2026.06 - Present*, Research Intern, Meta FAIR.
+- *2025.09 - 2025.11*, Industry-Academia Project Intern, OPPO.
 - *2025.05 - 2025.08*, Research Intern, Alibaba Future Life Lab.
