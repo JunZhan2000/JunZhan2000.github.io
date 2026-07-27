@@ -40,6 +40,31 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.job-market {
+    display: flex;
+    align-items: flex-start;
+    gap: .75rem;
+    margin: 1.5rem 0 2rem;
+    padding: 1rem 1.15rem;
+    border-left: 4px solid #1769aa;
+    border-radius: 4px;
+    background: #eef6fc;
+    color: #263746;
+
+    p {
+        margin: 0;
+    }
+
+    a {
+        font-weight: 600;
+    }
+}
+
+.job-market__icon {
+    flex: 0 0 auto;
+    line-height: 1.5;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

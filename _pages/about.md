@@ -21,7 +21,10 @@ I am currently a forth-year PhD student at the Fudan University, NLP Lab, superv
 
 My current research focuses on unified multimodal models. Feel free to contact me via email at [jzhan24@m.fudan.edu.cn](jzhan24@m.fudan.edu.cn).
 
-I expect to graduate in June 2026 and am currently seeking job opportunities based in the United States, Europe, and China.
+<div class="job-market">
+  <span class="job-market__icon" aria-hidden="true">💼</span>
+  <p><strong>On the job market:</strong> I expect to graduate in June 2026 and am seeking research scientist or research engineer opportunities in the United States, China, and Europe. Please feel free to contact me at <a href="mailto:jzhan24@m.fudan.edu.cn">jzhan24@m.fudan.edu.cn</a>.</p>
+</div>
 
 # 🔥 News
 - *2026.07*: &nbsp;🎬 We release [OmniVAE](http://openmoss.ai/OmniVAE.github.io), an audio-video VAE with cross-modal alignment for joint generation.
