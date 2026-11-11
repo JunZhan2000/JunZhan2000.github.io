@@ -23,7 +23,7 @@ My current research focuses on unified multimodal models. Feel free to contact m
 
 <div class="job-market">
   <p><span class="job-market__label"><span aria-hidden="true">💼</span> <strong>On the job market:</strong></span> I expect to graduate in June 2027 and am seeking job opportunities in the United States, China, and Europe. Please feel free to contact me at <a href="mailto:jzhan24@m.fudan.edu.cn">jzhan24@m.fudan.edu.cn</a>.</p>
-  <p><a href="/files/junzhan-resume-en.pdf">CV (English)</a> · <a href="/files/junzhan-resume-zh.pdf">简历（中文）</a></p>
+  <p><a href="/files/junzhan-resume-en.pdf">CV (English)</a> · <a href="/files/詹俊_复旦_简历.pdf">简历（中文）</a></p>
 </div>
 
 # 🔥 News
